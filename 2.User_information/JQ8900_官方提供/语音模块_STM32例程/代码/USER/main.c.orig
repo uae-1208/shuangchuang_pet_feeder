@@ -1,0 +1,13 @@
+#include "stm32f10x.h"
+#include "oled.h"
+#include "dht11.h" 	
+#include "adc.h"
+
+ int main(void)
+ {	
+ 
+  while(1)
+	{
+
+	}
+ }
